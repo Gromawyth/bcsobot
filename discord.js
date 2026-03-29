@@ -1342,5 +1342,3 @@ client.once("ready", async () => {
   console.log("A BCSO setup lefutott.");
   process.exit(0);
 });
-
-client.login(TOKEN);
